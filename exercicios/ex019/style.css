@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(15, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+p{
+    text-indent: 35px;
+    font-size: 20px;
+    text-align: justify;
+}
+h1#principal{
+    font-size: 32px;
+    color: white;
+    background-color: blue;
+}
+h2.basico{
+    background-color: black;
+    color: rgb(12, 14, 94);
+}
+h2.intermediario{
+    background-color: black;
+    color: rgb(2, 2, 156);
+}
+h2.avancado{
+    background-color: black;
+    color: rgb(0, 89, 255);
+}

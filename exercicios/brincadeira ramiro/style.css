@@ -1,0 +1,48 @@
+h1#bemvindo{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(13, 0, 71, 0.555);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 90px;
+    height: 90px;
+}
+body{
+    text-align: center;
+}
+div#redes > p {
+    display: none;
+}
+div#redes:hover > p{
+    width: 250px;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.555);;
+    color: white;
+}
+div#redes:hover{
+    background-color: rgba(44, 6, 216, 0.555);
+    text-decoration: none;
+}
+div{
+    display: inline-block;
+}
+div#redes{
+    width: 250px;
+    font-size: 20px;
+    background-color: rgba(13, 0, 71, 0.555);
+    color:white;
+    display: inline-block;
+}
+h2{
+    line-height: 60px;
+    height: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color: rgba(13, 0, 71, 0.555);
+}
+p{
+    text-decoration: none;
+}
+p:hover{
+    text-decoration: underline;
+    color: white;
+}
