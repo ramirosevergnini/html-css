@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/*Aparelho em pé*/
+body{
+    background-color: rgb(68, 0, 255);
+    background-image: url(../imagens/cev-portrait.jpg);
+    background-position: center bottom;
+}
